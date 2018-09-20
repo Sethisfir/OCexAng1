@@ -1,4 +1,5 @@
 # Blog
 
 Step 1 -> npm install
-STep 2 -> ng serve --open
+
+Step 2 -> ng serve --open
